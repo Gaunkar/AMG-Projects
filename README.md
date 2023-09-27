@@ -1,5 +1,8 @@
 # AMG-Projects
 AMG-Projects
+
+
+
   #!/usr/bin/bash
 
 NAME=$1
